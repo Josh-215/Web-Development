@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+}
+h1 {
+  margin-top: 0;
+}
+.top {
+  background-color: #e9d5da;
+}
+.mid {
+  height: 200px;
+  width: 200px;
+  background-color: #a3d2ca;
+}
+.bot {
+  height: 200px;
+  width: 200px;
+  background-color: #5eaaa8;
+}
